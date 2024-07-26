@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-Run the Demo [Anannya Portfolio](https://anannya-portfolio.netlify.app)
+Run the Demo [Anannya Portfolio](https://anannyapatra.com)
 
 # Instructions
 
