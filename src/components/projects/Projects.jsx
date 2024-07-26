@@ -99,7 +99,7 @@ const projects = [
     ),
   },
   {
-    title: "ChordPro",
+    title: "MoodMelody",
     imgSrc: "project-imgs/piano.png",
     code: "https://github.com/anannya03/MoodMelody",
     projectLink: "https://moodmelody.netlify.app/",
@@ -109,7 +109,7 @@ const projects = [
     modalContent: (
       <>
         <p>
-        ChordPro is an application that creates chord progressions tailored to user-selected moods (Happy, Sad, Anxious, Calm), 
+        MoodMelody is an application that creates chord progressions tailored to user-selected moods (Happy, Sad, Anxious, Calm), 
         complemented by a virtual piano for hands-on playing.
         </p>
         <p>
