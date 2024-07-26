@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-Run the Demo [Anannya Portfolio](anannyapatra.com)
+Run the Demo [Anannya Portfolio](https://anannyapatra.com)
 
 # Instructions
 
