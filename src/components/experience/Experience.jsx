@@ -34,6 +34,7 @@ const experience = [
     modalContent: (
       <>
         <p>
+           I began my full-time career at Athenahealth in July 2021 as an Associate Member of Technical Staff and was promoted to Member of Technical Staff in August 2022.
             As a software Developer at Athenahealth, I designed and implemented multiple high-impact features for the Ambulatory Care Management system, handling the entire development process from conceptualization to deployment, developed and fine-tuned database schemas to ensure optimal performance and mentored two interns during my tenure. 
           <br/>
           </p>
